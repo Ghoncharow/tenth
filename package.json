@@ -1,0 +1,19 @@
+{
+  "name": "to-do-list",
+  "version": "1.0.0",
+  "description": "for deploy anywhere",
+  "main": "app17.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "ghoncharow",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1",
+    "pg": "^7.11.0",
+    "sequelize": "^5.10.2"
+  },
+  "engines": {
+    "node": ">=9.0.0"
+  }
+}

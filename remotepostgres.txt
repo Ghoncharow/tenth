@@ -1,0 +1,13 @@
+https://customer.elephantsql.com/login
+
+Server:	
+raja.db.elephantsql.com
+
+User & Default database:
+cmdineoz
+
+Password:	
+h8p4kgAX_PgYzdjMY1_R4XCuw_cyehdA
+
+URL:	
+postgres://cmdineoz:h8p4kgAX_PgYzdjMY1_R4XCuw_cyehdA@raja.db.elephantsql.com:5432/cmdineoz
